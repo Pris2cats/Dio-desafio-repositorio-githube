@@ -1,4 +1,4 @@
 # Dio-desafio-repositorio-githube
 Desafio Projeto Githube
-## materias de apoio
-[Começando do Zero] (https://www.youtube.com/watch?v=ctqPmrD4PQA)
+## Materiais de Apoio
+[Começando do Zero](https://www.youtube.com/watch?v=ctqPmrD4PQA)
